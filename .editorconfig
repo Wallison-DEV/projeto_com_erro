@@ -1,0 +1,10 @@
+root = true #Essa parte indica que esse editorConfig é o mais importante dos editores de texto do projeto
+
+[*] #Isso indica que as próximas configurações são passadas para todos os arquivos
+indent_style = space    #Isso define se a identação é feita com Tab ou Espaço
+indent_size = 2        #Isso define de quantos espaços será a identação padrão
+end_of_line = lf
+charset = utf-8         #Define o padrão de caracteres
+trim_trailing_whitespace = true #Isso obriga a utilização de espaços após símbolos, vírgulas, pontos
+insert_final_newline = true #Isso insere uma linha em branco ao fim do arquivo
+
