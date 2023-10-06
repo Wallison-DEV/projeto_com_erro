@@ -1,0 +1,1 @@
+const auto=()=>console.log("eu");
